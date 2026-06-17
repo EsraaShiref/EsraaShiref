@@ -78,7 +78,7 @@
       </td>
       <td align="center" width="80">
         <a href="https://github.com/EsraaShiref" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/github.svg" width="48" height="48" alt="GitHub"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
         </a>
       </td>
     </tr>
